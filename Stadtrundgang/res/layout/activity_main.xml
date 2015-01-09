@@ -21,7 +21,6 @@
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/textView1"
         android:layout_marginTop="117dp"
-        android:onClick="onClick"
         android:text="GoogleMaps" />
 
 </RelativeLayout>
